@@ -59,5 +59,35 @@ namespace FoodQuick.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap JV_81_of_237_1 {
+            get {
+                object obj = ResourceManager.GetObject("JV-81-of-237-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Naomi_Sherman_Advanced_Graduate4 {
+            get {
+                object obj = ResourceManager.GetObject("Naomi-Sherman-Advanced-Graduate4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RamenFeatured_1 {
+            get {
+                object obj = ResourceManager.GetObject("RamenFeatured-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

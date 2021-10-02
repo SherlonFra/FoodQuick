@@ -362,7 +362,7 @@ namespace FoodQuick
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.Black;
-            this.panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel2.BackgroundImage")));
+            this.panel2.BackgroundImage = global::FoodQuick.Properties.Resources.Naomi_Sherman_Advanced_Graduate4;
             this.panel2.Controls.Add(this.label12);
             this.panel2.Controls.Add(this.Label11);
             this.panel2.Controls.Add(this.dataGridView1);
@@ -460,7 +460,7 @@ namespace FoodQuick
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::FoodQuick.Properties.Resources.JV_81_of_237_1;
             this.ClientSize = new System.Drawing.Size(800, 592);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel2);

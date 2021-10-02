@@ -29,7 +29,6 @@ namespace FoodQuick
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.btnexit = new System.Windows.Forms.Button();
             this.btnlogin = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -134,7 +133,7 @@ namespace FoodQuick
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::FoodQuick.Properties.Resources.RamenFeatured_1;
             this.ClientSize = new System.Drawing.Size(817, 493);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnexit);
